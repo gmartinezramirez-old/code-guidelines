@@ -35,6 +35,13 @@
 
 ## Overview
 
+
+  - **Readability:** The code should be clear and easy to understand at first glance.
+  - **Maintainability:** The code should be consistent and cohesive.
+  - **Error Prevention:** The code should strategically avoid common problems.
+  - **Performance:** The code should always consider faster implementations.
+
+
 <p align="right"><a href="#top">:arrow_up:</a></p>
 
 ## Features

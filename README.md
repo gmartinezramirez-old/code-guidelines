@@ -1,6 +1,10 @@
 <!-- In this section add logo or name of the proyect -->
 <h1 align="center">Code Guidelines</h1>
 
+<p align="center">
+<img src="https://github.com/gmartinezramirez/Screenshots/blob/master/code-guidelines-coverpage.png" alt="code-guidelines-coverpage" width="400">
+</p>
+
 <!-- In this section add a brief description of the proyect, add (WIP) if is a work in progress -->
 <div align="center">:page_facing_up: Style code guideline for programming projects.</div>
 <br />
